@@ -1,6 +1,12 @@
-## Preview
-# About
+## About the Project
 `This is the simple dice game created using react+vite`
+
+## Setup project 
+- `git clone https://github.com/et0o/dice-game.git`
+- `npm install`
+- `npm run dev`
+
+## Preview
 # Start Screen
 
 ![ss0](https://github.com/et0o/dice-game/assets/156741711/f2d84dc3-8d40-43cb-8db4-5222d759139c)
